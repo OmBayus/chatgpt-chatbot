@@ -1,0 +1,1 @@
+* chatgpt ye yazdırdığım chatgpt chat bot :D
